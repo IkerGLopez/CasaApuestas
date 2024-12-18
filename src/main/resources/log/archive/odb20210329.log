@@ -1,0 +1,3110 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:01:24 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9860@DESKTOP-OT7AHR9
+
+[2021-03-29 13:01:24 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:01:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:01:24 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:01:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:01:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:01:24 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:01:24 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:01:24 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:01:24 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:01:24 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:01:24 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:01:24 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:04:13 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13452@DESKTOP-OT7AHR9
+
+[2021-03-29 13:04:14 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:04:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:04:14 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:04:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:04:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:04:14 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:04:14 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:04:14 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:04:14 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:04:14 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:04:14 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:04:14 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:04:32 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12180@DESKTOP-OT7AHR9
+
+[2021-03-29 13:04:33 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:04:33 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:04:33 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:04:33 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:04:33 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:04:33 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:04:33 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:04:33 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:04:33 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:04:33 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:04:33 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:04:33 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:08:25 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7704@DESKTOP-OT7AHR9
+
+[2021-03-29 13:08:25 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:08:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:08:25 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:08:25 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:08:25 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:08:25 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:08:25 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:08:25 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:08:25 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:08:25 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:08:25 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:08:25 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:11:02 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13868@DESKTOP-OT7AHR9
+
+[2021-03-29 13:11:02 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:11:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:11:02 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:11:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:11:02 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:11:02 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:11:02 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:11:02 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:11:02 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:11:02 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:11:02 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:11:02 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:14:44 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 6636@DESKTOP-OT7AHR9
+
+[2021-03-29 13:14:45 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:14:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:14:45 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:14:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:14:45 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:14:45 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:14:45 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:14:45 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:14:45 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:14:45 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:14:45 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:14:45 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:15:34 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12548@DESKTOP-OT7AHR9
+
+[2021-03-29 13:15:34 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:15:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:15:34 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:15:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:15:35 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:15:35 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:15:35 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:15:35 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:15:35 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:15:35 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:15:35 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:15:35 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:15:59 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12128@DESKTOP-OT7AHR9
+
+[2021-03-29 13:15:59 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:15:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:15:59 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:15:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:16:00 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:16:00 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:16:00 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:16:00 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:16:00 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:16:00 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:16:00 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:16:00 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:18:42 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 3164@DESKTOP-OT7AHR9
+
+[2021-03-29 13:18:42 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:18:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:18:42 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:18:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:18:42 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:18:42 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:18:42 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:18:42 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:18:42 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:18:42 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:18:42 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:18:43 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:19:43 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13044@DESKTOP-OT7AHR9
+
+[2021-03-29 13:19:43 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:19:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:19:43 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:19:43 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:19:44 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:19:44 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:19:44 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:19:44 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:19:44 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:19:44 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:19:44 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:19:44 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:21:08 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12664@DESKTOP-OT7AHR9
+
+[2021-03-29 13:21:08 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:21:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:21:08 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:21:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:21:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:21:08 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:21:08 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:21:08 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:21:08 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:21:08 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:21:08 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:21:08 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:21:34 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 3100@DESKTOP-OT7AHR9
+
+[2021-03-29 13:21:34 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:21:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:21:34 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:21:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:21:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:21:34 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:21:34 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:21:34 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:21:34 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:21:34 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:21:34 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:21:34 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:22:03 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9164@DESKTOP-OT7AHR9
+
+[2021-03-29 13:22:03 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:22:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:22:03 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:22:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:22:03 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:22:03 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:22:03 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:22:03 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:22:03 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:22:03 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:22:03 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:22:03 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:22:40 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11576@DESKTOP-OT7AHR9
+
+[2021-03-29 13:22:40 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:22:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:22:40 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:22:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:22:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:22:40 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:22:40 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:22:40 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:22:40 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:22:40 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:22:40 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:22:40 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:22:53 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13332@DESKTOP-OT7AHR9
+
+[2021-03-29 13:22:54 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:22:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:22:54 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:22:54 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:22:54 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:22:54 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:22:54 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:22:54 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:22:54 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:22:54 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:22:54 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:22:54 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:23:15 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 1412@DESKTOP-OT7AHR9
+
+[2021-03-29 13:23:15 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:23:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:23:16 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:23:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:23:16 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:23:16 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:23:16 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:23:16 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:23:16 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:23:16 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:23:16 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:23:16 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:23:45 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13832@DESKTOP-OT7AHR9
+
+[2021-03-29 13:23:45 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:23:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:23:45 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:23:46 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:23:46 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:23:46 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:23:46 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:23:46 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:23:46 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:23:46 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:23:46 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:23:46 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:24:35 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4956@DESKTOP-OT7AHR9
+
+[2021-03-29 13:24:36 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:24:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:24:36 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:24:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:24:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:24:36 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:24:36 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:24:36 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:24:36 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:24:36 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:24:36 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:24:36 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:25:07 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11740@DESKTOP-OT7AHR9
+
+[2021-03-29 13:25:08 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:25:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:25:08 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:25:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:25:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:25:08 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:25:08 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:25:08 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:25:08 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:25:08 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:25:08 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:25:08 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:25:22 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 8844@DESKTOP-OT7AHR9
+
+[2021-03-29 13:25:22 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:25:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:25:22 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:25:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:25:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:25:22 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:25:22 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:25:22 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:25:22 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:25:22 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:25:22 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:25:22 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:25:52 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 1384@DESKTOP-OT7AHR9
+
+[2021-03-29 13:25:52 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:25:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:25:52 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:25:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:25:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:25:52 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:25:52 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:25:52 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:25:52 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:25:52 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:25:52 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:25:52 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:26:04 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 516@DESKTOP-OT7AHR9
+
+[2021-03-29 13:26:04 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:26:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:26:04 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:26:04 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:26:04 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:26:04 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:26:04 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:26:04 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:26:04 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:26:04 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:26:04 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:26:04 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:26:39 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11008@DESKTOP-OT7AHR9
+
+[2021-03-29 13:26:39 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:26:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:26:39 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:26:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:26:39 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:26:39 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:26:39 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:26:39 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:26:39 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:26:39 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:26:39 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:26:39 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:26:48 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 1800@DESKTOP-OT7AHR9
+
+[2021-03-29 13:26:48 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:26:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:26:48 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:26:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:26:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:26:48 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:26:48 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:26:48 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:26:48 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:26:48 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:26:48 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:26:48 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:29:14 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 6132@DESKTOP-OT7AHR9
+
+[2021-03-29 13:29:14 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:29:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:29:14 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:29:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:29:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:29:14 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:29:14 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:29:14 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:29:14 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:29:14 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:29:14 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:29:14 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:31:48 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 6592@DESKTOP-OT7AHR9
+
+[2021-03-29 13:31:48 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:31:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:31:48 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:31:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:31:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:31:48 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:31:48 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:31:48 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:31:48 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:31:48 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:31:48 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:31:48 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:34:53 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13568@DESKTOP-OT7AHR9
+
+[2021-03-29 13:34:53 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:34:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:34:53 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:34:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:34:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:34:53 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:34:53 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:34:53 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:34:53 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:34:53 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:34:53 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:34:53 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:35:02 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12336@DESKTOP-OT7AHR9
+
+[2021-03-29 13:35:03 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:35:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:35:03 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:35:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:35:03 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:35:03 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:35:03 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:35:03 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:35:03 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:35:03 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:35:03 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:35:03 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:35:24 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 1208@DESKTOP-OT7AHR9
+
+[2021-03-29 13:35:24 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:35:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:35:24 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:35:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:35:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:35:24 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:35:24 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:35:24 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:35:24 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:35:24 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:35:24 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:35:24 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:37:54 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12780@DESKTOP-OT7AHR9
+
+[2021-03-29 13:37:54 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:37:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:37:54 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:37:54 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:37:54 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:37:54 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:37:54 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:37:54 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:37:54 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:37:54 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:37:54 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:37:54 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:38:38 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9240@DESKTOP-OT7AHR9
+
+[2021-03-29 13:38:38 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:38:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:38:38 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:38:38 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:38:38 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:38:38 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:38:38 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:38:38 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:38:38 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:38:38 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:38:38 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:38:38 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:40:18 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 1064@DESKTOP-OT7AHR9
+
+[2021-03-29 13:40:19 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:40:19 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:40:19 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:40:19 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:40:19 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:40:19 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:40:19 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:40:19 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:40:19 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:40:19 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:40:19 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:40:19 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:42:13 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7204@DESKTOP-OT7AHR9
+
+[2021-03-29 13:42:13 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:42:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:42:13 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:42:13 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:42:13 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:42:13 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:42:13 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:42:13 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:42:13 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:42:13 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:42:13 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:42:13 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:43:16 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12192@DESKTOP-OT7AHR9
+
+[2021-03-29 13:43:16 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:43:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:43:16 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:43:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:43:16 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:43:16 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:43:16 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:43:16 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:43:16 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:43:16 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:43:16 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:43:16 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:43:42 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 3892@DESKTOP-OT7AHR9
+
+[2021-03-29 13:43:42 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:43:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:43:42 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:43:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:43:42 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:43:42 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:43:42 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:43:42 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:43:42 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:43:42 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:43:42 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:43:42 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:43:56 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12504@DESKTOP-OT7AHR9
+
+[2021-03-29 13:43:56 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:43:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:43:56 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:43:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:43:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:43:56 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:43:56 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:43:56 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:43:56 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:43:56 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:43:56 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:43:56 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:46:38 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 3596@DESKTOP-OT7AHR9
+
+[2021-03-29 13:46:38 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:46:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:46:38 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:46:38 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:46:38 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:46:38 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:46:38 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:46:38 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:46:38 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:46:38 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:46:38 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:46:38 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:48:47 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7296@DESKTOP-OT7AHR9
+
+[2021-03-29 13:48:47 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:48:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:48:47 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:48:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:48:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:48:47 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:48:47 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:48:47 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:48:47 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:48:47 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:48:47 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:48:47 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:48:56 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 2808@DESKTOP-OT7AHR9
+
+[2021-03-29 13:48:57 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:48:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:48:57 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:48:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:48:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:48:57 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:48:57 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:48:57 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:48:57 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:48:57 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:48:57 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:48:57 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:49:59 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 5608@DESKTOP-OT7AHR9
+
+[2021-03-29 13:49:59 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:49:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:49:59 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:49:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:49:59 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:49:59 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:49:59 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:49:59 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:49:59 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:49:59 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:49:59 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:49:59 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:51:53 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 10892@DESKTOP-OT7AHR9
+
+[2021-03-29 13:51:53 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:51:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:51:53 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:51:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:51:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:51:53 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:51:53 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:51:53 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:51:53 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:51:53 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:51:53 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:51:53 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:52:25 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 3864@DESKTOP-OT7AHR9
+
+[2021-03-29 13:52:26 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:52:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:52:26 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:52:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:52:26 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:52:26 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:52:26 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:52:26 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:52:26 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:52:26 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:52:26 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:52:26 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 13:54:04 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12296@DESKTOP-OT7AHR9
+
+[2021-03-29 13:54:04 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 13:54:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 13:54:04 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 13:54:04 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 13:54:04 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 13:54:04 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 13:54:04 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 13:54:04 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 13:54:04 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 13:54:04 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 13:54:04 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 13:54:04 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 16:04:21 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11292@DESKTOP-OT7AHR9
+
+[2021-03-29 16:04:22 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 16:04:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 16:04:22 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 16:04:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 16:04:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 16:04:22 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 16:04:22 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 16:04:22 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 16:04:22 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 16:04:22 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 16:04:22 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 16:04:22 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 16:05:47 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 6068@DESKTOP-OT7AHR9
+
+[2021-03-29 16:05:48 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 16:05:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 16:05:48 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 16:05:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 16:05:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 16:05:48 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 16:05:48 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 16:05:48 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 16:05:48 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 16:05:48 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 16:05:48 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 16:05:48 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 16:06:11 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13720@DESKTOP-OT7AHR9
+
+[2021-03-29 16:06:11 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 16:06:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 16:06:11 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 16:06:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 16:06:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 16:06:11 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 16:06:11 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 16:06:11 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 16:06:11 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 16:06:11 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 16:06:11 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 16:06:11 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 16:07:52 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7456@DESKTOP-OT7AHR9
+
+[2021-03-29 16:07:53 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 16:07:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 16:07:53 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 16:07:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 16:07:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 16:07:53 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 16:07:53 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 16:07:53 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 16:07:53 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 16:07:53 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 16:07:53 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 16:07:53 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 16:13:55 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11664@DESKTOP-OT7AHR9
+
+[2021-03-29 16:13:55 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 16:13:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 16:13:55 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 16:13:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 16:13:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 16:13:55 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 16:13:55 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-29 16:13:55 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 16:13:55 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 16:13:55 #11 type.registry] 
+New type domain.User
+
+[2021-03-29 16:13:55 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 16:13:55 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:04:50 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 6400@DESKTOP-OT7AHR9
+
+[2021-03-29 17:04:51 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:04:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:04:51 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:04:51 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:04:51 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:04:51 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:04:51 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:04:51 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:04:51 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:04:51 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:04:51 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:04:51 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:04:51 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:04:51 #15 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:05:26 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13856@DESKTOP-OT7AHR9
+
+[2021-03-29 17:05:26 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:05:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:05:26 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:05:26 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:05:26 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:05:26 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:05:26 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:05:26 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:05:26 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:05:26 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:05:26 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:05:26 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:05:26 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:05:26 #15 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:16:07 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12932@DESKTOP-OT7AHR9
+
+[2021-03-29 17:16:07 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:16:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:16:07 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:16:07 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:16:07 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:16:07 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:16:07 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:16:07 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:16:07 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:16:07 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:16:07 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:16:07 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:16:07 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:16:07 #15 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:45:42 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9388@DESKTOP-OT7AHR9
+
+[2021-03-29 17:45:42 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:45:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:45:42 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:45:42 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:45:42 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:45:42 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:45:42 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:45:42 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:45:42 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:45:42 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:45:42 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:45:42 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:45:42 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:45:42 #15 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:48:25 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4748@DESKTOP-OT7AHR9
+
+[2021-03-29 17:48:25 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:48:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:48:25 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:48:25 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:48:25 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:48:25 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:48:25 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:48:25 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:48:25 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:48:25 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:48:25 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:48:25 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:48:25 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:48:25 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:48:25 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:48:25 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:48:57 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11124@DESKTOP-OT7AHR9
+
+[2021-03-29 17:48:57 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:48:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:48:57 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:48:57 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:48:57 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:48:57 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:48:57 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:48:57 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:48:57 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:48:57 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:48:57 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:48:57 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:48:57 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:48:57 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:48:57 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:48:57 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:49:19 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 10800@DESKTOP-OT7AHR9
+
+[2021-03-29 17:49:20 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:49:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:49:20 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:49:20 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:49:20 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:49:20 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:49:20 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:49:20 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:49:20 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:49:20 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:49:20 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:49:20 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:49:20 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:49:20 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:49:20 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:49:20 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:50:42 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13436@DESKTOP-OT7AHR9
+
+[2021-03-29 17:50:43 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:50:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:50:43 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:50:43 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:50:43 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:50:43 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:50:43 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:50:43 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:50:43 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:50:43 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:50:43 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:50:43 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:50:43 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:50:43 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:50:43 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:50:43 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:51:00 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4528@DESKTOP-OT7AHR9
+
+[2021-03-29 17:51:00 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:51:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:51:00 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:51:00 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:51:00 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:51:00 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:51:00 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:51:00 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:51:00 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:51:00 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:51:00 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:51:00 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:51:00 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:51:00 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:51:01 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:51:01 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:51:52 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9052@DESKTOP-OT7AHR9
+
+[2021-03-29 17:51:52 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:51:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:51:52 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:51:52 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:51:52 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:51:52 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:51:52 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:51:52 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:51:52 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:51:52 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:51:52 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:51:52 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:51:52 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:51:52 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:51:52 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:51:52 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:52:37 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 14108@DESKTOP-OT7AHR9
+
+[2021-03-29 17:52:37 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:52:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:52:37 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:52:37 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:52:37 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:52:37 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:52:37 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:52:37 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:52:37 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:52:37 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:52:37 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:52:37 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:52:37 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:52:37 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:52:37 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:52:37 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:54:00 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7816@DESKTOP-OT7AHR9
+
+[2021-03-29 17:54:00 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:54:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:54:00 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:54:00 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:54:00 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:54:00 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:54:00 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:54:00 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:54:00 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:54:00 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:54:00 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:54:00 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:54:00 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:54:00 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:54:00 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:54:00 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:56:41 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 1628@DESKTOP-OT7AHR9
+
+[2021-03-29 17:56:41 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:56:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:56:41 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:56:41 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:56:41 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:56:41 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:56:41 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:56:41 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:56:41 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:56:41 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:56:41 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:56:41 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:56:41 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:56:42 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:56:42 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:56:42 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:58:03 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11796@DESKTOP-OT7AHR9
+
+[2021-03-29 17:58:03 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:58:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:58:03 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:58:03 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:58:03 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:58:03 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:58:03 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:58:03 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:58:03 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:58:03 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:58:03 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:58:03 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:58:03 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:58:03 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:58:03 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:58:03 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 17:59:16 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7500@DESKTOP-OT7AHR9
+
+[2021-03-29 17:59:16 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 17:59:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 17:59:16 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 17:59:16 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 17:59:16 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 17:59:16 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 17:59:16 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 17:59:16 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 17:59:16 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 17:59:16 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 17:59:16 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 17:59:16 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 17:59:16 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 17:59:16 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 17:59:16 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 17:59:16 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 18:00:41 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 10296@DESKTOP-OT7AHR9
+
+[2021-03-29 18:00:41 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 18:00:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 18:00:41 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 18:00:41 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 18:00:41 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 18:00:41 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 18:00:41 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 18:00:41 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 18:00:41 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 18:00:41 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 18:00:41 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 18:00:41 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 18:00:41 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 18:00:41 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 18:00:41 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 18:00:41 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 18:02:02 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 14232@DESKTOP-OT7AHR9
+
+[2021-03-29 18:02:02 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 18:02:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 18:02:02 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 18:02:02 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 18:02:02 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 18:02:02 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 18:02:02 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 18:02:02 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 18:02:02 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 18:02:02 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 18:02:02 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 18:02:02 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 18:02:02 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 18:02:02 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 18:02:02 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 18:02:02 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 18:03:48 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 8584@DESKTOP-OT7AHR9
+
+[2021-03-29 18:03:49 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 18:03:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 18:03:49 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 18:03:49 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 18:03:49 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 18:03:49 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 18:03:49 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 18:03:49 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 18:03:49 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 18:03:49 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 18:03:49 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 18:03:49 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 18:03:49 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 18:03:49 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 18:03:49 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 18:03:49 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 18:04:49 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12008@DESKTOP-OT7AHR9
+
+[2021-03-29 18:04:49 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 18:04:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 18:04:49 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 18:04:50 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 18:04:50 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 18:04:50 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 18:04:50 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 18:04:50 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 18:04:50 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 18:04:50 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 18:04:50 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 18:04:50 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 18:04:50 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 18:04:50 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 18:04:50 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 18:04:50 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 18:09:43 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 8036@DESKTOP-OT7AHR9
+
+[2021-03-29 18:09:44 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 18:09:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 18:09:44 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 18:09:44 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 18:09:44 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 18:09:44 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 18:09:44 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 18:09:44 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 18:09:44 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 18:09:44 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 18:09:44 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 18:09:44 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 18:09:44 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 18:09:44 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 18:09:44 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 18:09:44 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 18:28:20 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 8412@DESKTOP-OT7AHR9
+
+[2021-03-29 18:28:20 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 18:28:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 18:28:20 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 18:28:20 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 18:28:20 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 18:28:20 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 18:28:20 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 18:28:20 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 18:28:20 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 18:28:20 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 18:28:20 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 18:28:20 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 18:28:20 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 18:28:20 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 18:28:20 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 18:28:20 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-29 18:32:25 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7840@DESKTOP-OT7AHR9
+
+[2021-03-29 18:32:25 #2 type.registry] 
+New type domain.Question
+
+[2021-03-29 18:32:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-29 18:32:25 #4 type.registry] 
+New type domain.Event
+
+[2021-03-29 18:32:25 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-03-29 18:32:25 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-29 18:32:25 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-29 18:32:25 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-03-29 18:32:25 #9 type.registry] 
+New type domain.Langile
+
+[2021-03-29 18:32:25 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-29 18:32:25 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-29 18:32:25 #12 type.registry] 
+New type domain.User
+
+[2021-03-29 18:32:25 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-03-29 18:32:25 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-03-29 18:32:25 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-03-29 18:32:25 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-03-29 18:32:25 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+

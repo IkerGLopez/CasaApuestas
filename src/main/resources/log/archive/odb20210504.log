@@ -1,0 +1,2312 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 14:47:41 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 5548@DESKTOP-OT7AHR9
+
+[2021-05-04 14:47:42 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 14:47:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 14:47:42 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 14:47:42 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 14:47:42 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 14:47:42 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 14:47:42 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 14:47:42 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 14:47:42 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 14:47:42 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 14:47:42 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 14:47:42 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 14:47:42 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 14:47:42 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 14:47:42 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 14:47:42 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 14:47:42 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 14:47:42 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 14:47:42 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 14:47:42 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 14:47:42 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 15:15:03 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 2684@DESKTOP-OT7AHR9
+
+[2021-05-04 15:15:03 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 15:15:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 15:15:03 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 15:15:03 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 15:15:04 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 15:15:04 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 15:15:04 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 15:15:04 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 15:15:04 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 15:15:04 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 15:15:04 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 15:15:04 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 15:15:04 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 15:15:04 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 15:15:04 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 15:15:04 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 15:15:04 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 15:15:04 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 15:15:04 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 15:15:04 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 15:15:04 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 15:31:03 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13072@DESKTOP-OT7AHR9
+
+[2021-05-04 15:31:04 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 15:31:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 15:31:04 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 15:31:04 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 15:31:04 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 15:31:04 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 15:31:04 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 15:31:04 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 15:31:04 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 15:31:04 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 15:31:04 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 15:31:04 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 15:31:04 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 15:31:04 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 15:31:04 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 15:31:04 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 15:31:04 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 15:31:04 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 15:31:04 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 15:31:04 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 15:31:04 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 15:37:31 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 14688@DESKTOP-OT7AHR9
+
+[2021-05-04 15:37:32 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 15:37:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 15:37:32 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 15:37:32 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 15:37:32 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 15:37:32 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 15:37:32 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 15:37:32 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 15:37:32 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 15:37:32 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 15:37:32 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 15:37:32 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 15:37:32 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 15:37:32 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 15:37:32 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 15:37:32 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 15:37:32 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 15:37:32 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 15:37:32 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 15:37:32 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 15:37:32 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 15:39:29 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 840@DESKTOP-OT7AHR9
+
+[2021-05-04 15:39:30 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 15:39:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 15:39:30 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 15:39:30 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 15:39:30 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 15:39:30 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 15:39:30 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 15:39:30 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 15:39:30 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 15:39:30 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 15:39:30 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 15:39:30 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 15:39:30 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 15:39:30 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 15:39:30 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 15:39:30 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 15:39:30 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 15:39:30 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 15:39:30 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 15:39:30 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 15:39:30 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 15:55:50 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 7616@DESKTOP-OT7AHR9
+
+[2021-05-04 15:55:50 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 15:55:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 15:55:50 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 15:55:50 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 15:55:50 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 15:55:50 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 15:55:50 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 15:55:50 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 15:55:50 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 15:55:50 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 15:55:50 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 15:55:50 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 15:55:50 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 15:55:50 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 15:55:50 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 15:55:50 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 15:55:50 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 15:55:50 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 15:55:50 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 15:55:50 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 15:55:50 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 15:58:07 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11956@DESKTOP-OT7AHR9
+
+[2021-05-04 15:58:08 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 15:58:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 15:58:08 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 15:58:08 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 15:58:08 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 15:58:08 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 15:58:08 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 15:58:08 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 15:58:08 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 15:58:08 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 15:58:08 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 15:58:08 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 15:58:08 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 15:58:08 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 15:58:08 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 15:58:08 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 15:58:08 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 15:58:08 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 15:58:08 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 15:58:08 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 15:58:08 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 16:00:37 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 14220@DESKTOP-OT7AHR9
+
+[2021-05-04 16:00:37 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 16:00:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 16:00:37 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 16:00:37 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 16:00:37 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 16:00:37 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 16:00:37 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 16:00:37 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 16:00:37 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 16:00:37 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 16:00:37 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 16:00:37 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 16:00:37 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 16:00:37 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 16:00:37 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 16:00:37 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 16:00:37 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 16:00:37 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 16:00:37 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 16:00:37 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 16:00:37 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 16:03:51 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9140@DESKTOP-OT7AHR9
+
+[2021-05-04 16:03:52 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 16:03:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 16:03:52 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 16:03:52 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 16:03:52 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 16:03:52 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 16:03:52 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 16:03:52 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 16:03:52 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 16:03:52 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 16:03:52 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 16:03:52 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 16:03:52 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 16:03:52 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 16:03:52 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 16:03:52 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 16:03:52 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 16:03:52 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 16:03:52 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 16:03:52 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 16:03:52 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 16:08:37 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 6340@DESKTOP-OT7AHR9
+
+[2021-05-04 16:08:38 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 16:08:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 16:08:38 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 16:08:38 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 16:08:38 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 16:08:38 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 16:08:38 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 16:08:38 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 16:08:38 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 16:08:38 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 16:08:38 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 16:08:38 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 16:08:38 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 16:08:38 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 16:08:38 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 16:08:38 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 16:08:38 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 16:08:38 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 16:08:38 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 16:08:38 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 16:08:38 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 16:12:49 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 1824@DESKTOP-OT7AHR9
+
+[2021-05-04 16:12:50 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 16:12:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 16:12:50 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 16:12:50 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 16:12:50 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 16:12:50 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 16:12:50 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 16:12:50 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 16:12:50 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 16:12:50 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 16:12:50 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 16:12:50 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 16:12:50 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 16:12:50 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 16:12:50 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 16:12:50 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 16:12:50 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 16:12:50 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 16:12:50 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 16:12:50 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 16:12:50 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 16:21:37 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4996@DESKTOP-OT7AHR9
+
+[2021-05-04 16:21:37 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 16:21:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 16:21:37 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 16:21:38 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 16:21:38 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 16:21:38 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 16:21:38 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 16:21:38 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 16:21:38 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 16:21:38 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 16:21:38 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 16:21:38 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 16:21:38 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 16:21:38 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 16:21:38 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 16:21:38 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 16:21:38 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 16:21:38 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 16:21:38 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 16:21:38 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 16:21:38 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 16:25:36 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11300@DESKTOP-OT7AHR9
+
+[2021-05-04 16:25:37 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 16:25:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 16:25:37 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 16:25:37 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 16:25:37 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 16:25:37 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 16:25:37 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 16:25:37 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 16:25:37 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 16:25:37 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 16:25:37 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 16:25:37 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 16:25:37 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 16:25:37 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 16:25:37 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 16:25:37 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 16:25:37 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 16:25:37 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 16:25:37 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 16:25:37 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 16:25:37 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 16:33:22 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4476@DESKTOP-OT7AHR9
+
+[2021-05-04 16:33:22 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 16:33:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 16:33:22 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 16:33:22 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 16:33:22 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 16:33:22 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 16:33:22 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 16:33:22 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 16:33:22 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 16:33:22 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 16:33:22 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 16:33:22 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 16:33:22 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 16:33:22 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 16:33:22 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 16:33:22 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 16:33:22 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 16:33:22 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 16:33:22 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 16:33:22 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 16:33:22 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 18:35:05 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 19332@DESKTOP-BOOM0A2
+
+[2021-05-04 18:35:05 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 18:35:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 18:35:05 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 18:35:05 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 18:35:05 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 18:35:05 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 18:35:05 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 18:35:05 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 18:35:05 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 18:35:05 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 18:35:05 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 18:35:05 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 18:35:05 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 18:35:05 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 18:35:05 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 18:35:05 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 18:35:05 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 18:35:05 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 18:35:05 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 18:35:05 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 18:35:05 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 18:37:24 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 9284@DESKTOP-BOOM0A2
+
+[2021-05-04 18:37:25 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 18:37:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 18:37:25 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 18:37:25 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 18:37:25 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 18:37:25 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 18:37:25 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 18:37:25 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 18:37:25 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 18:37:25 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 18:37:25 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 18:37:25 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 18:37:25 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 18:37:25 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 18:37:25 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 18:37:25 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 18:37:25 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 18:37:25 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 18:37:25 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 18:37:25 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 18:37:25 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 18:40:00 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 7672@DESKTOP-BOOM0A2
+
+[2021-05-04 18:40:00 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 18:40:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 18:40:00 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 18:40:00 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 18:40:00 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 18:40:00 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 18:40:00 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 18:40:00 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 18:40:00 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 18:40:00 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 18:40:00 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 18:40:00 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 18:40:00 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 18:40:00 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 18:40:00 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 18:40:00 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 18:40:00 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 18:40:00 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 18:40:00 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 18:40:00 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 18:40:00 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 18:41:02 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 7288@DESKTOP-BOOM0A2
+
+[2021-05-04 18:41:02 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 18:41:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 18:41:02 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 18:41:02 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 18:41:02 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 18:41:02 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 18:41:02 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 18:41:02 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 18:41:02 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 18:41:02 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 18:41:02 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 18:41:02 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 18:41:02 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 18:41:02 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 18:41:02 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 18:41:02 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 18:41:02 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 18:41:02 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 18:41:02 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 18:41:02 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 18:41:02 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 18:47:00 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 20456@DESKTOP-BOOM0A2
+
+[2021-05-04 18:47:00 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 18:47:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 18:47:00 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 18:47:00 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 18:47:00 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 18:47:00 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 18:47:00 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 18:47:00 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 18:47:00 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 18:47:00 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 18:47:00 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 18:47:00 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 18:47:00 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 18:47:00 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 18:47:00 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 18:47:00 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 18:47:00 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 18:47:00 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 18:47:00 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 18:47:00 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 18:47:00 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 18:47:40 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 8636@DESKTOP-BOOM0A2
+
+[2021-05-04 18:47:41 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 18:47:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 18:47:41 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 18:47:41 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 18:47:41 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 18:47:41 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 18:47:41 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 18:47:41 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 18:47:41 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 18:47:41 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 18:47:41 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 18:47:41 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 18:47:41 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 18:47:41 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 18:47:41 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 18:47:41 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 18:47:41 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 18:47:41 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 18:47:41 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 18:47:41 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 18:47:41 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:02:29 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 12792@DESKTOP-BOOM0A2
+
+[2021-05-04 19:02:29 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:02:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:02:29 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:02:29 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:02:29 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:02:29 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:02:29 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:02:29 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:02:29 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:02:29 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:02:29 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:02:29 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:02:29 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:02:29 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:02:29 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:02:29 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:02:29 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:02:29 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:02:29 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:02:29 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:02:29 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:05:57 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 2500@DESKTOP-BOOM0A2
+
+[2021-05-04 19:05:57 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:05:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:05:57 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:05:57 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:05:57 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:05:57 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:05:57 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:05:57 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:05:57 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:05:57 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:05:57 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:05:57 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:05:57 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:05:57 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:05:57 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:05:57 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:05:57 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:05:57 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:05:57 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:05:57 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:05:57 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:08:26 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 12116@DESKTOP-BOOM0A2
+
+[2021-05-04 19:08:26 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:08:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:08:26 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:08:26 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:08:26 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:08:26 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:08:26 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:08:26 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:08:26 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:08:26 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:08:26 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:08:26 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:08:26 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:08:26 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:08:26 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:08:26 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:08:26 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:08:26 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:08:26 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:08:26 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:08:26 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:10:52 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 18972@DESKTOP-BOOM0A2
+
+[2021-05-04 19:10:53 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:10:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:10:53 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:10:53 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:10:53 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:10:53 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:10:53 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:10:53 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:10:53 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:10:53 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:10:53 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:10:53 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:10:53 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:10:53 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:10:53 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:10:53 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:10:53 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:10:53 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:10:53 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:10:53 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:10:53 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:11:48 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 16196@DESKTOP-BOOM0A2
+
+[2021-05-04 19:11:48 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:11:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:11:48 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:11:48 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:11:48 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:11:48 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:11:48 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:11:48 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:11:48 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:11:48 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:11:48 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:11:48 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:11:48 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:11:48 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:11:48 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:11:48 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:11:48 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:11:48 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:11:48 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:11:48 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:11:48 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:14:00 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 4964@DESKTOP-BOOM0A2
+
+[2021-05-04 19:14:00 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:14:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:14:00 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:14:00 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:14:00 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:14:00 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:14:00 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:14:00 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:14:00 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:14:00 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:14:00 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:14:00 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:14:00 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:14:00 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:14:00 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:14:00 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:14:00 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:14:00 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:14:00 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:14:00 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:14:00 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:20:05 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 5888@DESKTOP-BOOM0A2
+
+[2021-05-04 19:20:05 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:20:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:20:05 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:20:05 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:20:05 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:20:05 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:20:05 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:20:05 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:20:05 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:20:05 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:20:05 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:20:05 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:20:05 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:20:05 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:20:05 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:20:05 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:20:05 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:20:05 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:20:05 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:20:05 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:20:05 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:22:43 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 19028@DESKTOP-BOOM0A2
+
+[2021-05-04 19:22:43 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:22:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:22:43 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:22:43 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:22:43 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:22:43 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:22:43 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:22:43 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:22:43 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:22:43 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:22:43 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:22:43 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:22:43 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:22:43 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:22:43 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:22:43 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:22:43 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:22:43 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:22:43 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:22:43 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:22:43 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:27:24 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 7552@DESKTOP-BOOM0A2
+
+[2021-05-04 19:27:24 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:27:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:27:24 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:27:24 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:27:24 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:27:24 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:27:24 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:27:24 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:27:24 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:27:24 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:27:24 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:27:24 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:27:24 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:27:24 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:27:24 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:27:24 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:27:24 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:27:24 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:27:24 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:27:24 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:27:24 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:32:28 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 20732@DESKTOP-BOOM0A2
+
+[2021-05-04 19:32:28 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:32:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:32:28 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:32:28 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:32:28 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:32:28 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:32:28 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:32:28 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:32:28 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:32:28 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:32:28 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:32:28 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:32:28 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:32:28 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:32:28 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:32:28 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:32:28 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:32:28 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:32:28 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:32:28 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:32:28 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:37:38 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 19012@DESKTOP-BOOM0A2
+
+[2021-05-04 19:37:38 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:37:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:37:38 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:37:38 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:37:38 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:37:38 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:37:38 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:37:38 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:37:38 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:37:38 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:37:38 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:37:38 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:37:38 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:37:38 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:37:38 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:37:38 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:37:38 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:37:38 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:37:38 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:37:38 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:37:38 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:45:59 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 3388@DESKTOP-BOOM0A2
+
+[2021-05-04 19:45:59 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:45:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:45:59 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:45:59 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:45:59 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:45:59 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:45:59 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:45:59 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:45:59 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:45:59 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:45:59 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:45:59 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:45:59 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:45:59 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:45:59 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:45:59 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:45:59 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:45:59 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:45:59 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:45:59 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:45:59 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:49:52 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 9840@DESKTOP-BOOM0A2
+
+[2021-05-04 19:49:52 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:49:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:49:52 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:49:52 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:49:52 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:49:52 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:49:52 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:49:52 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:49:52 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:49:52 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:49:52 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:49:52 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:49:52 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:49:52 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:49:52 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:49:52 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:49:52 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:49:52 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:49:52 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:49:52 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:49:52 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-04 19:54:11 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 12468@DESKTOP-BOOM0A2
+
+[2021-05-04 19:54:11 #2 type.registry] 
+New type domain.Question
+
+[2021-05-04 19:54:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-04 19:54:11 #4 type.registry] 
+New type domain.Event
+
+[2021-05-04 19:54:11 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-04 19:54:11 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-04 19:54:11 #7 type.registry] 
+New type domain.User
+
+[2021-05-04 19:54:11 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-04 19:54:11 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-04 19:54:11 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-04 19:54:11 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-04 19:54:11 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-04 19:54:11 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-04 19:54:11 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-04 19:54:11 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-04 19:54:11 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-04 19:54:11 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-04 19:54:11 #18 type.registry] 
+New type domain.Langile
+
+[2021-05-04 19:54:11 #19 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-04 19:54:11 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-04 19:54:11 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-04 19:54:11 #22 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+

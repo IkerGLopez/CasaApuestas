@@ -1,0 +1,142 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:49:24 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 14428@DESKTOP-BOOM0A2
+
+[2021-05-15 12:49:24 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 12:49:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 12:49:24 #4 type.registry] 
+New type domain.Event
+
+[2021-05-15 12:49:24 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-15 12:49:24 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-15 12:49:24 #7 type.registry] 
+New type domain.User
+
+[2021-05-15 12:49:24 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-15 12:49:24 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 12:49:24 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 12:49:24 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-15 12:49:24 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-15 12:49:24 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-15 12:49:24 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-15 12:49:24 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-15 12:49:24 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-15 12:49:24 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-15 12:49:24 #18 type.registry] 
+New type java.util.ArrayList<domain.Question>
+
+[2021-05-15 12:49:24 #19 type.registry] 
+New type domain.Langile
+
+[2021-05-15 12:49:24 #20 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-15 12:49:24 #21 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-15 12:49:24 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 12:49:24 #23 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:56:08 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\2. maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 20640@DESKTOP-BOOM0A2
+
+[2021-05-15 12:56:08 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 12:56:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 12:56:08 #4 type.registry] 
+New type domain.Event
+
+[2021-05-15 12:56:08 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-05-15 12:56:08 #6 type.registry] 
+New type domain.Pertsona
+
+[2021-05-15 12:56:08 #7 type.registry] 
+New type domain.User
+
+[2021-05-15 12:56:08 #8 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+[2021-05-15 12:56:08 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 12:56:08 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 12:56:08 #11 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-15 12:56:08 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-05-15 12:56:08 #13 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-05-15 12:56:08 #14 type.registry] 
+New type java.util.HashMap<domain.User,java.lang.Double>
+
+[2021-05-15 12:56:08 #15 type.registry] 
+New type domain.Apostua
+
+[2021-05-15 12:56:08 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostua>
+
+[2021-05-15 12:56:08 #17 type] 
+Type domain.Apostua is not enhanced.
+
+[2021-05-15 12:56:08 #18 type.registry] 
+New type java.util.ArrayList<domain.Question>
+
+[2021-05-15 12:56:08 #19 type.registry] 
+New type domain.Langile
+
+[2021-05-15 12:56:08 #20 type] 
+Type domain.Langile is not enhanced.
+
+[2021-05-15 12:56:08 #21 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-05-15 12:56:08 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 12:56:08 #23 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+

@@ -1,0 +1,106 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-05 17:44:16 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 10316@DESKTOP-OT7AHR9
+
+[2021-04-05 17:44:17 #2 type.registry] 
+New type domain.Question
+
+[2021-04-05 17:44:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-05 17:44:17 #4 type.registry] 
+New type domain.Event
+
+[2021-04-05 17:44:17 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-04-05 17:44:17 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-05 17:44:17 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-05 17:44:17 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-04-05 17:44:17 #9 type.registry] 
+New type domain.Langile
+
+[2021-04-05 17:44:17 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-04-05 17:44:17 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-04-05 17:44:17 #12 type.registry] 
+New type domain.User
+
+[2021-04-05 17:44:17 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-04-05 17:44:17 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-05 17:44:17 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-05 17:44:17 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-04-05 17:44:17 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-05 17:51:45 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11904@DESKTOP-OT7AHR9
+
+[2021-04-05 17:51:45 #2 type.registry] 
+New type domain.Question
+
+[2021-04-05 17:51:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-05 17:51:45 #4 type.registry] 
+New type domain.Event
+
+[2021-04-05 17:51:45 #5 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Double>
+
+[2021-04-05 17:51:45 #6 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-05 17:51:45 #7 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-05 17:51:45 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-04-05 17:51:45 #9 type.registry] 
+New type domain.Langile
+
+[2021-04-05 17:51:45 #10 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-04-05 17:51:45 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2021-04-05 17:51:45 #12 type.registry] 
+New type domain.User
+
+[2021-04-05 17:51:45 #13 type] 
+Type domain.User is not enhanced.
+
+[2021-04-05 17:51:45 #14 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-05 17:51:45 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-05 17:51:45 #16 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2021-04-05 17:51:45 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+

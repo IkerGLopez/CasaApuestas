@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-19 15:09:47 #1 store] 
+Database 'C:\Users\Jon Gonzalez\Desktop\UNI\Bigarren maila\SI\PROIEKTUA\Bets21-master\src\main\resources\bets.temp' is opened by 7432@DESKTOP-BOOM0A2
+
+[2021-02-19 15:09:48 #2 type.registry] 
+New type domain.Question
+
+[2021-02-19 15:09:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-02-19 15:09:48 #4 type.registry] 
+New type domain.Event
+
+[2021-02-19 15:09:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-02-19 15:09:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-02-19 15:09:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

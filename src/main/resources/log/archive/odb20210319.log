@@ -1,0 +1,82 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-19 11:25:16 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4108@DESKTOP-OT7AHR9
+
+[2021-03-19 11:25:17 #2 type.registry] 
+New type domain.Question
+
+[2021-03-19 11:25:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-19 11:25:17 #4 type.registry] 
+New type domain.Event
+
+[2021-03-19 11:25:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-19 11:25:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-19 11:25:17 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-19 11:25:17 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-19 11:25:17 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-19 11:25:17 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-19 11:25:17 #11 type.registry] 
+New type domain.User
+
+[2021-03-19 11:25:17 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-19 11:25:17 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-19 11:25:46 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9664@DESKTOP-OT7AHR9
+
+[2021-03-19 11:25:47 #2 type.registry] 
+New type domain.Question
+
+[2021-03-19 11:25:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-19 11:25:47 #4 type.registry] 
+New type domain.Event
+
+[2021-03-19 11:25:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-19 11:25:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-19 11:25:47 #7 type.registry] 
+New type domain.Pertsona
+
+[2021-03-19 11:25:47 #8 type.registry] 
+New type domain.Langile
+
+[2021-03-19 11:25:47 #9 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-03-19 11:25:47 #10 type] 
+Type domain.Langile is not enhanced.
+
+[2021-03-19 11:25:47 #11 type.registry] 
+New type domain.User
+
+[2021-03-19 11:25:47 #12 type] 
+Type domain.User is not enhanced.
+
+[2021-03-19 11:25:47 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
